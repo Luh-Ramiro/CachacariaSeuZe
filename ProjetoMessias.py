@@ -1,4 +1,5 @@
 import requests
+import json
 from deep_translator import GoogleTranslator
 
 def obter_conselhos(qtd):
